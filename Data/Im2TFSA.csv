@@ -1,0 +1,38 @@
+# ===================================================================
+#                          METADATA
+# ===================================================================
+# 1. Title: Experimental data of Im2TFSA used in the artile 
+# "Ionic Liquid--Electrode Interface: from One Law To Fit Them All to One Model To Predict Them All".
+# 2. DOI: https://doi.org/10.1016/j.elecom.2025.108049
+# 3. Authors:
+#    - Ba Long Nguyen (ORCID: 0009-0003-7682-9851)
+#    - Vladislav Ivanistsev (ORCID: 0000-0003-4517-0540)
+# 4. Contact: balongn99@gmail.com & vladislav.ivanistsev@gmail.com
+# 5. Keywords: differential capacitance, ionic liquids, modelling, fitting.
+# 6. Data source DOI: https://doi.org/10.1039/C003920A
+# 7. Data Format:
+#     - Units: Potential (V), Capacitance (μF/cm²), Surface Charge Density (μC/cm²)
+#-----------------------------------------------------------
+Q,U
+-20.0441,-1.48
+-18.8903,-1.38
+-17.72776,-1.28
+-16.54825,-1.18
+-15.34412,-1.08
+-14.12206,-0.98
+-12.88747,-0.88
+-11.64166,-0.78
+-10.39072,-0.68
+-9.14098,-0.58
+-7.83381,-0.48
+-6.42038,-0.38
+-4.8837,-0.28
+-3.2193,-0.18
+-1.44907,-0.08
+0.38461,0.02
+4.33667,0.22
+6.36905,0.32
+8.47922,0.42
+10.70047,0.52
+13.00924,0.62
+15.33761,0.72

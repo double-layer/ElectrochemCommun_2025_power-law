@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+
+    <dc:title>Power law-based Automated Fitting and Energy Density Prediction for Ionic Liquid--Electrode Interfaces</dc:title>
+
+    <dc:creator>Nguyen, Ba Long (ORCID: 0009-0003-7682-9851)</dc:creator>
+    <dc:creator>Ivanistsev, Vladislav (ORCID: 0000-0003-4517-0540)</dc:creator>
+
+    <dc:description>
+        This project contains the complete dataset and all supporting scripts for the article, 'Ionic Liquid–Electrode Interface: From One Law to Fit Them All to One Model to Predict Them All.' Included are the empirical data, scripts to reproduce all figures in the publication, and a toolkit for data analysis and energy density prediction in ionic liquid systems.
+    </dc:description>
+
+    <dc:publisher>Zenodo</dc:publisher>
+
+    <dc:date>2025-09-24</dc:date>
+
+    <dc:identifier></dc:identifier>
+    
+    <dc:subject>Electrical double layer</dc:subject>
+    <dc:subject>Molecular dynamics</dc:subject>
+    <dc:subject>Ionic liquid</dc:subject>
+    <dc:subject>Differential capacitance</dc:subject>
+    <dc:subject>Energy density</dc:subject>
+    <dc:subject>Capacitance--potential dependence</dc:subject>
+
+    <dc:type>Software</dc:type>
+    <dc:type>Dataset</dc:type>
+
+    <dc:format>application/x-ipynb+json</dc:format>
+    <dc:format>text/x-python</dc:format>
+    <dc:format>text/plain</dc:format>
+    <dc:format>text/csv</dc:format>
+
+    <dc:language>en</dc:language>
+
+    <dc:rights>Code: MIT License</dc:rights>
+    <dc:rights>Data: Creative Commons Attribution 4.0 International (CC-BY 4.0)</dc:rights>
+
+    <dc:relation>isSupplementTo: https://doi.org/10.1016/j.elecom.2025.108049</dc:relation>
+
+</oai_dc:dc>
