@@ -79,11 +79,13 @@ The input .csv files should be structured as follows:
     
 ## How to Cite
 
+[![DOI](https://zenodo.org/badge/1063962838.svg)](https://doi.org/10.5281/zenodo.17201978)
+
 If you use this code or data in your research, please cite both the associated article and the project itself.
 
     1. Article DOI: https://doi.org/10.1016/j.elecom.2025.108049
 
-    2. Scripts and data Zenodo DOI: [![DOI](https://zenodo.org/badge/1063962838.svg)](https://doi.org/10.5281/zenodo.17201978)
+    2. Scripts and data Zenodo DOI: https://doi.org/10.5281/zenodo.17201978
 
 
 ## Acknowledgments
